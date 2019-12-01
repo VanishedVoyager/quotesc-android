@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/quote_of_the_day_destination"
+        android:title="@string/quote_of_the_day"
+        android:icon="@drawable/ic_view_list_black_24dp" />
+
+    <item
+        android:id="@+id/quotesc_destination"
+        android:title="@string/quotes"
+        android:icon="@drawable/ic_view_list_black_24dp" />
+
+    <item
+        android:id="@+id/persons_destination"
+        android:title="@string/persons"
+        android:icon="@drawable/ic_person_black_24dp" />
+
+    <item
+        android:id="@+id/tinderesc_destination"
+        android:title="@string/tinderesc"
+        android:icon="@drawable/ic_whatshot_black_24dp" />
+
+</menu>
